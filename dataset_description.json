@@ -1,13 +1,10 @@
 {
-    "Name": "Hippocampal-neocortical interactions sharpen over time for predictive actions",
-    "BIDSVersion": "1.2.0",
-    "Authors": [
-        "Hindy, N.C.",
-        "Avery, E.W.",
-        "Turk-Browne, N.B."
-    ],
-    "ReferencesAndLinks": [
+	"Name": "Hippocampal-neocortical interactions sharpen over time for predictive actions",
+	"BIDSVersion": "1.2.0",
+	"Authors": [
+		"Hindy, N.C.", "Avery, E.W.",  "Turk-Browne, N.B."
+	],
+	"ReferencesAndLinks": [
         ""
-    ],
-    "DatasetDOI": "10.18112/openneuro.ds001946.v1.0.0"
+    ]
 }
