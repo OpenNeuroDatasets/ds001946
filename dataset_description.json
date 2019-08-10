@@ -13,5 +13,6 @@
     "Funding": [],
     "License": "CC0",
     "Acknowledgements": "This work was supported by NIH grants F32 EY023162, R01 EY021755, and R01 MH069456.",
-    "HowToAcknowledge": "Hindy, N.C., Avery, E.A., & Turk-Browne, N.B. Hippocampal-neocortical interactions sharpen over time for predictive actions. Preprint available on bioRxiv. doi: https://doi.org/10.1101/483115."
+    "HowToAcknowledge": "Hindy, N.C., Avery, E.A., & Turk-Browne, N.B. Hippocampal-neocortical interactions sharpen over time for predictive actions. Preprint available on bioRxiv. doi: https://doi.org/10.1101/483115.",
+    "DatasetDOI": "10.18112/openneuro.ds001946.v1.0.1"
 }
